@@ -5,3 +5,7 @@ products/node_modules
 container/node_modules
 container/package-lock.json
 container/.DS_Store
+
+cart/node_modules
+cart/package-lock.json
+cart/.DS_Store
