@@ -1,2 +1,7 @@
 products/package-lock.json
 products/.DS_Store
+products/node_modules
+
+container/node_modules
+container/package-lock.json
+container/.DS_Store
